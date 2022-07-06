@@ -1,5 +1,15 @@
+
 .text-center {
     text-align: center;
     background-color: darkblue;
     color: white;
 }
+
+.container {
+   display: block;
+    margin: 0 auto;
+  
+    border-radius: 10px;
+    padding-bottom: 50px;
+    width: 90%;
+  }
